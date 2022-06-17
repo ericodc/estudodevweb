@@ -108,3 +108,5 @@ dist
 
 # mac os
 .DS_Store
+
+hotcss/
