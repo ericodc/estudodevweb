@@ -1,0 +1,10 @@
+
+#post-archive table a {
+	display: block;
+	font-weight: bold;
+	color: #FFF;
+}
+
+#post-archive table a:hover {
+	background: #ABD240;
+}

@@ -1,0 +1,4 @@
+
+#sidebar form .text {
+	width: 9em;
+}

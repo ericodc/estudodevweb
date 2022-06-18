@@ -1,0 +1,6 @@
+
+#post-archive caption {
+	margin: 1em auto 0;
+	font-size: larger;
+	font-weight: bold;
+}

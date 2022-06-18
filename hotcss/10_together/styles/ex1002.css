@@ -1,0 +1,19 @@
+/* ------------- "generic" styles */
+
+body {
+	margin: 0; padding: 0;
+	background: #E3EDC2; color: #333;
+	font: small "Lucida Grande", Arial, sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+a img {
+	border: 0;
+}
+
+p {
+	margin: 0 0 1em;
+}

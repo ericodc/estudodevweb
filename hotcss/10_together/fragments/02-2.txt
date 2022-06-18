@@ -1,0 +1,6 @@
+
+#homelink {
+	display: block;
+	margin: 1em 2em 1em; padding: 2em 0 0.5em 1em;
+	background: url(../images/curl.gif) 100% 100% no-repeat;
+}

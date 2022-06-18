@@ -1,0 +1,5 @@
+
+#post-archive table {
+	margin: 0 auto;
+	font-size: smaller;
+}

@@ -1,0 +1,7 @@
+
+/* ------------- masthead styles */
+
+#masthead {
+	margin-bottom: 1.75em; padding-top: 1px;
+	background: #ABD240;
+}

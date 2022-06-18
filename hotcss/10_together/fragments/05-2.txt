@@ -1,0 +1,5 @@
+
+#content img.illus {
+	float: left;
+	margin: 1em 1em 1em 0;
+}

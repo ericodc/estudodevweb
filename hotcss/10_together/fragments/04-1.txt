@@ -1,0 +1,7 @@
+
+/* ------------- main column styles */
+
+#content {
+	float: left;
+	padding: 0 20em 4em 3em;
+}

@@ -1,0 +1,8 @@
+
+#navlinks li.last {
+	border-right: 0;
+}
+
+#navlinks a {
+	color: #D4EC84;
+}

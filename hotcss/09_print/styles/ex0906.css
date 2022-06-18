@@ -1,0 +1,63 @@
+body {
+	font: 12pt "Times New Roman", TimesNR, Times, serif;
+}
+#navlinks, #search, #post-archive, #tea-of-the-day img {
+	display: none;
+}
+a img {
+	border: 0;
+}
+h1, h2, h3, h4 {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+}
+#masthead {
+	border-bottom: 1px solid #000;
+}
+#today {
+	text-align: right;
+	font-style: italic;
+	margin: -1em 0 0.25em;
+}
+#content {
+	margin: 0 5%;
+}
+#content h1 {
+	margin-left: -5%;
+}
+#content img.illus {
+	float: left;
+	margin: 1em 1em 1em 0;
+}
+#tea-of-the-day {
+	border: 3px double;
+	text-align: center;
+	padding: 0.5em;
+	margin: 0 10%;
+}
+#tea-of-the-day h3, #tea-of-the-day h4 {
+	margin: 0;
+	display: inline;
+	font-size: 1em;
+}
+#tea-of-the-day h3 {
+	border-right: 2px solid;
+	margin-right: 1em;
+	padding-right: 1em;
+	color: gray;
+}
+#tea-of-the-day p {
+	margin: 0.5em 0 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,30 @@
+body {
+	font: 12pt "Times New Roman", TimesNR, Times, serif;
+}
+#navlinks, #search, #post-archive, #tea-of-the-day img {
+	display: none;
+}
+a img {
+	border: 0;
+}
+h1, h2, h3, h4 {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+}
+#masthead {
+	border-bottom: 1px solid #000;
+}
+#today {
+	text-align: right;
+	font-style: italic;
+	margin: -1em 0 0.25em;
+}
+#content {
+	margin: 0 5%;
+}
+#content h1 {
+	margin-left: -5%;
+}
+#content img.illus {
+	float: left;
+	margin: 1em 1em 1em 0;
+}

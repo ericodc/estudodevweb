@@ -1,0 +1,145 @@
+/* ------------- "generic" styles */
+
+body {
+	background: #E3EDC2; color: #333;
+	font: small "Lucida Grande", Arial, sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+a img {
+	border: 0;
+}
+
+/* ------------- masthead styles */
+
+#masthead {
+	background: #ABD240;
+}
+
+#homelink {
+	display: block;
+	background: url(../images/curl.gif) 100% 100% no-repeat;
+}
+
+#navlinks {
+	background: #686397; color: #FFF;
+}
+
+#navlinks li {
+	display: inline;
+	font-weight: bold;
+}
+
+#navlinks a {
+	color: #D4EC84;
+}
+
+#today {
+	color: #FFF;
+	font-weight: bold;
+	text-align: right;
+	line-height: 1;
+}
+
+/* ------------- main column styles */
+
+#content {
+	float: left;
+	padding: 0 20em 4em 3em;
+}
+
+#content h1 {
+	background: #FFF; color: #686397;
+	font-size: 1.5em;
+}
+
+#content h1 b {
+	color: #B0D742;
+}
+
+#content h2 {
+	font-size: 1.5em;
+}
+
+#content img.illus {
+	float: left;
+	margin: 1em 1em 1em 0;
+}
+
+/* ------------- sidebar styles */
+
+#sidebar {
+	float: left;
+	width: 17em;
+	margin: 0 0 4em -18em;
+}
+
+#sidebar form, #sidebar div h3 {
+	background: #9B96CA;
+}
+
+#sidebar form .text {
+	width: 9em;
+}
+
+#sidebar div {
+	background: #3A3C2D; color: #FFF;
+}
+
+#sidebar div h3 {
+	font-size: 1.25em;
+	text-transform: lowercase;
+}
+
+#tea-of-the-day h4 {
+	font-weight: normal;
+}
+
+#tea-of-the-day p:first-line {
+	font-style: italic;
+}
+
+#tea-of-the-day img {
+	display: block;
+	margin: 2em auto 0;
+}
+
+#post-archive table {
+	font-size: smaller;
+}
+
+#post-archive caption {
+	font-size: larger;
+	font-weight: bold;
+}
+
+#post-archive td {
+	padding: 0;
+	border: 1px solid #787A6B;
+	background: #5B5D4E; color: #222;
+	text-align: center;
+}
+
+#post-archive table a {
+	font-weight: bold;
+	color: #FFF;
+}
+
+/* ------------- footer styles */
+
+#footer {
+	clear: both;
+	background: #A0C63A;
+}
+
+#footer p {
+	margin: 0;
+}
+
+#footer a {
+	color: #333;
+	text-decoration: underline;
+}
