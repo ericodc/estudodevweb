@@ -1,0 +1,50 @@
+<!-- Código video aula 14/16 sobre como estilizar um botão  -->
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Refazendo só o menu</title>
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/reset.css">
+  <!-- <link rel="stylesheet" href="css/index.css"> -->
+  <style>
+    header {
+      background-color: #7C5E99;
+    }
+    a {
+      color: white;
+      font-size: 20px;
+      font-family: 'Fira Code', Arial, Helvetica, sans-serif;
+      font-weight: 500;
+      text-decoration: none;
+      margin-right: 30px;
+    }
+    #button {
+      display: inline-block;
+      background-color: #F25A70;
+      height: 60px;
+      line-height: 60px; /* pra centralizar tem que ser domesmo valor */
+      padding-left: 20px;
+      padding-right: 20px;
+      box-shadow: 5px 5px 0 black;
+
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="assets/img/logo.png" alt="avatar do patrão">
+    <nav><a href="#">Skills</a>
+      <a href="#">Projetos</a>
+      <a href="#">Sobre</a>
+      <a href="#">Contatos</a>
+      <a id="button" href="#" lang="en">Download CV</a>
+    </nav>
+  </header>
+</body>
+</html>
