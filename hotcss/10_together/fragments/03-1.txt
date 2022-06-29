@@ -1,7 +1,0 @@
-
-#navlinks li {
-	display: inline;
-	margin-right: 0.5em; padding-right: 0.75em;
-	border-right: 1px solid #99C;
-	font-weight: bold;
-}

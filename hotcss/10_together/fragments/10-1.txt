@@ -1,8 +1,0 @@
-
-/* ------------- footer styles */
-
-#footer {
-	clear: both;
-	padding: 1.5em 3em;
-	background: #A0C63A;
-}

@@ -1,6 +1,0 @@
-
-#sidebar div h3 {
-	font-size: 1.25em;
-	margin: 0 -0.8em; padding: 0.4em 0.8em;
-	text-transform: lowercase;
-}

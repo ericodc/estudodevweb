@@ -1,7 +1,0 @@
-
-#post-archive td {
-	padding: 0;
-	border: 1px solid #787A6B;
-	background: #5B5D4E; color: #222;
-	text-align: center;
-}
