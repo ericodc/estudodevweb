@@ -1,0 +1,60 @@
+@charset "UTF-8";
+@font-face {
+  font-family: 'IDroid';
+  src:  url('../fontes/idroid.otf') format('woff');
+}
+header {
+  background-color: rgb(126, 219, 196);
+  margin: 0px;
+}
+
+header h1 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFF;
+}
+
+dd {
+  text-align: center;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 14PX;
+  color: #FFF;
+}
+nav {
+  background-color: rgb(13, 105, 75);
+
+}
+
+ul {
+  height: 30px;
+
+}
+
+ul a {
+  color: #ebebf0;
+  text-decoration: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 14px;
+  padding-top: 10px;
+}
+
+
+
+#historico {
+  background-color: white;
+  padding: 10px 14px 8px 14px;
+  width: 640px;
+
+}
+body {
+  background-color: rgb(102, 214, 140);
+}
+h2, h3 {
+  font-family: IDroid;
+  color: rgb(13, 105, 75);
+}
+
+h3 {
+  background-color: rgb(161, 233, 179);
+}
