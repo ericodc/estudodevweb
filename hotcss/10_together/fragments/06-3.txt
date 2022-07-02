@@ -1,4 +1,0 @@
-
-#sidebar form {
-	margin: 0; padding: 0.8em;
-}

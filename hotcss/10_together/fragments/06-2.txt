@@ -1,4 +1,0 @@
-
-#sidebar form, #sidebar div h3 {
-	background: #9B96CA;
-}

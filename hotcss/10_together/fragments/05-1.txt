@@ -1,6 +1,0 @@
-
-#content h2 {
-	margin: 0.5em 0; padding-bottom: 0.25em;
-	border-bottom: 1px solid #B0D742;
-	font-size: 1.5em;
-}

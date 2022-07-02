@@ -1,4 +1,0 @@
-
-#tea-of-the-day p:first-line {
-	font-style: italic;
-}

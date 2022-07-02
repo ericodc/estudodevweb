@@ -1,8 +1,0 @@
-
-/* ------------- sidebar styles */
-
-#sidebar {
-	float: left;
-	width: 17em;
-	margin: 0 0 4em -18em;
-}

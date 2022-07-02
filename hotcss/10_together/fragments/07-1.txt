@@ -1,6 +1,0 @@
-
-#sidebar div {
-	background: #3A3C2D; color: #FFF;
-	padding: 0 1em 1em;
-	margin-top: 0.75em;
-}
